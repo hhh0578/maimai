@@ -1,5 +1,5 @@
 # maimai
 It's the collection of the creating game for maimai
 
-#update
+# update
 2019-10-31 
